@@ -1,0 +1,13 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/snow-meowl/snow-meowl/discussions
+    about: Ask questions and discuss ideas.
+
+  - name: 📚 Repositories
+    url: https://github.com/snow-meowl?tab=repositories
+    about: Browse all Snow Meowl projects.
+
+  - name: 🔒 Security Vulnerabilities
+    url: https://github.com/snow-meowl/.github/security/advisories/new
+    about: Report security vulnerabilities privately.
