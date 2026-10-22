@@ -11,3 +11,11 @@ contact_links:
   - name: 🔒 Security Vulnerabilities
     url: https://github.com/snow-meowl/.github/security/advisories/new
     about: Report security vulnerabilities privately.
+    
+  - name: ❓ Support and Questions
+    url: https://github.com/snow-meowl
+    about: Find a relevant repository and its documentation.
+
+  - name: 🛡 Security Vulnerabilities
+    url: https://github.com/snow-meowl/.github/blob/main/SECURITY.md
+    about: Read the security policy before reporting a vulnerability.
